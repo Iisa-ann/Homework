@@ -1,4 +1,4 @@
 <?php
-echo "Kiitos ja näkemiin!";
+echo "Näkemisiin! <br>";
 echo "Copyright &copy;" . date("Y");
 ?>

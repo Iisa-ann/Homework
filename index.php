@@ -7,8 +7,8 @@
 <body>
 
 <?php include 'header.php';?>
-<p>Sivuja päivitetään jatkuvasti.</p><br>
-<p>Seuraa sivuja säännöllisesti, ettet missaa mitään.</p>
+<p>Sivuja päivitetään jatkuvasti.</p>
+<p>Seuraa sivuja säännöllisesti, ettet missaa mitään.</p><br>
 <?php include 'footer.php';?>
     
 </body>

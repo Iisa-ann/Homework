@@ -1,3 +1,3 @@
 <?php
-echo "Tervetuloa uudistetuille sivuille!";
+echo "<h1>Tervetuloa uudistetuille kotisivuille!</h1>";
 ?>
